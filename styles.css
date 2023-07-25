@@ -60,3 +60,10 @@ li {
     text-decoration: line-through;
     color: red;
 }
+
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+  .container {
+    max-width: 90%;
+  }
+}
