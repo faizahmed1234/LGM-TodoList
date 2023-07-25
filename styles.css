@@ -64,6 +64,6 @@ li {
 /* Media query for mobile devices */
 @media screen and (max-width: 768px) {
   .container {
-    max-width: 90%;
+    max-width: 80%;
   }
 }
